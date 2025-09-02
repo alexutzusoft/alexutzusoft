@@ -22,9 +22,11 @@
 
 ### 🧰 Languages & Tools
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+<div align="center">
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberry-pi) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberry-pi) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux)
+
+</div>
 
 ---
 

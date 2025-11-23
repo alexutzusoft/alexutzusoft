@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>Entrepreneur, SWE & AI.</strong><br/>
-  CEO @ TreeSoft
 </p>
 
 <p align="center">
